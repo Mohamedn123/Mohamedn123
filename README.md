@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Mohamed Nashaat
-- 👀 I’m interested in Backend Development using PHP
-- 🌱 I’m currently learning Frontend Framework to become fullstack developer
+- 👀 I’m interested in Backend Development using Laravel/PHP & Frontend using Angular
 - 💞️ I’m looking to collaborate on Open Source Project Like (Ubuntu or Moodle)
 - 📫 How to reach me : mohamednashaat97@gmail.com
 
